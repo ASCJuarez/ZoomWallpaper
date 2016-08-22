@@ -1,0 +1,22 @@
+{
+   "wallpapers": [
+      {
+         "author": "nombre del autor del wallpaper",
+         "url": "enlace del wallpaper",
+         "name": "nombre del wallpaper",
+         "thumbnail": "enlace de pequña imagen (256*256px) de previzualizacion del wallpaper"
+      },
+      {
+         "author": "nombre del autor del wallpaper",
+         "url": "enlace del wallpaper",
+         "name": "nombre del wallpaper",
+         "thumbnail": "enlace de pequña imagen (256*256px) de previzualizacion del wallpaper"
+      },
+      {
+         "author": "nombre del autor del wallpaper",
+         "url": "enlace del wallpaper",
+         "name": "nombre del wallpaper",
+         "thumbnail": "enlace de pequña imagen (256*256px) de previzualizacion del wallpaper"
+      }
+   ]
+}
